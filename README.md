@@ -7,7 +7,7 @@
 > 我们发行在此的程序均为release版本，beta版请打开[这里](https://github.com/yangshunyao666/lg-py-beta/ "这里")
 
 
-#怎么安装？
+# 怎么安装？
 1. 打开www.python.org/download/下载属于你的Python发行版
 
 2. 打开终端运行以下命令：
